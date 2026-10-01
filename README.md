@@ -25,110 +25,197 @@
 
 <br />
 
+## 🧭 About Me
 
-<img src="assets/mc-section-01.svg" width="100%" alt="01 — Player profile / About me" />
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Animated developer working at a computer" />
 
-<img src="assets/mc-overworld.png" width="100%" alt="An original Minecraft-inspired night world: a diamond pickaxe, glowing workshop, floating islands, waterfall, and enchanted portal" />
+I'm **Paila Akash**, a Computer Science student who likes taking ideas apart, understanding how they work, and turning them into something useful. My projects connect **language models, RF signals, and interactive web experiences**.
 
-<img src="assets/mc-player.svg" width="100%" alt="Paila Akash, Paila009. Builder and explorer. B.Tech CSE, Generative AI, at K L University. Exploring language models, RF signals and worlds built with code." />
+- 🎓 Studying **B.Tech CSE (Generative AI)** at **K L University**.
+- 🧠 Exploring **LLM uncertainty, hallucination detection, and RAG**.
+- 📡 Building **RF simulations, direction-finding tools, and visual dashboards**.
+- 🌱 Developing **LILNEST**, a maternal and child wellness app project.
+- ✨ Experimenting with **3D interfaces, motion, and full-stack development**.
+- ⚡ My favorite kind of project: one that makes me learn something new.
 
+<br clear="right" />
 
-**Every good build starts with curiosity—and a few broken blocks.**
-
-I'm **Paila Akash**, a Computer Science student connecting **AI research, signal intelligence, and creative web development**. I like making complex ideas tangible: an experiment you can reproduce, a signal you can see, or an interface you can use.
-
-🌱 **Current quests:** LLM uncertainty and hallucination detection · RF simulation and direction finding · LILNEST · interactive 3D web experiences.
-
-<br />
-
-<img src="assets/mc-section-02.svg" width="100%" alt="02 — Crafting inventory / Tech stack" />
-
-<img src="assets/mc-inventory.svg" width="100%" alt="Tool inventory: Python, TypeScript, React and Next.js, Django, PyTorch, MATLAB, Three.js and GSAP, Git and GitHub" />
-
-<p align="center"><sub>Also in the chest: NumPy · SciPy · Matplotlib · Simulink · PyQt6 · PyQtGraph · HTML · CSS</sub></p>
-
-<br />
-
-<img src="assets/mc-section-03.svg" width="100%" alt="03 — Quest board / Featured projects" />
+## 🎓 Education & Focus
 
 <table>
+<tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%" align="center"><a href="https://github.com/Paila009/SOA"><img src="assets/mc-quest-01.svg" width="100%" alt="LLM UNCERTAINTY LAB: Investigating when language models might be guessing: RAG, internal signals, probes, and evaluation. Open repository." /></a></td>
-<td width="50%" align="center"><a href="https://github.com/Paila009/Drone_DF_Simulator"><img src="assets/mc-quest-02.svg" width="100%" alt="DRONE DF SIMULATOR: Signal generation, spectrum views, replay tools, antenna arrays, and MUSIC-based direction estimation. Open repository." /></a></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://github.com/Paila009/LILNEST-BLOG"><img src="assets/mc-quest-03.svg" width="100%" alt="LILNEST: A maternal &amp; child wellness app project with care dashboards, records, and time-capsule modules. Open repository." /></a></td>
-<td width="50%" align="center"><a href="https://github.com/Paila009/Matlab-Dashboard-Calculations-Algorithms-"><img src="assets/mc-quest-04.svg" width="100%" alt="RF ALGORITHMS: MATLAB/Simulink experiments for signal processing, RF modeling, and direction/distance estimation. Open repository." /></a></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://github.com/Paila009/Portfolio-exp"><img src="assets/mc-quest-05.svg" width="100%" alt="INTERACTIVE PORTFOLIO: An expressive portfolio with 3D scenes, particles, terminal motion, and a keyboard command palette. Open repository." /></a></td>
-<td width="50%" align="center"><a href="https://github.com/Paila009/E-commerce-website"><img src="assets/mc-quest-06.svg" width="100%" alt="E-COMMERCE DASHBOARD: A static store-admin demo with products, orders, and customers. Built with seeded sample data. Open repository." /></a></td>
+### Education
+
+**K L University**  
+B.Tech, Computer Science & Engineering  
+Specialization: **Generative AI**
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm exploring
+
+🧠 Interpretable and evidence-aware AI  
+📡 Signal processing and RF visualization  
+🌐 Full-stack applications and creative interfaces
+
+</td>
 </tr>
 </table>
 
-<sub>SOA's current results are predictive; causal validation and cross-model experiments remain future work. Project cards link directly to the code.</sub>
+## 🛠️ Tech Stack
 
-<br />
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Languages</b><br /><br />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&amp;theme=dark" height="48" alt="Python, JavaScript, TypeScript, HTML, CSS" />
+<br /><br />
+</td>
+<td width="50%" align="center">
+<b>Web Development</b><br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,tailwind,threejs&amp;theme=dark" height="48" alt="React, Next.js, Django, Tailwind CSS, Three.js" />
+<br /><br />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<b>AI &amp; Scientific Computing</b><br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab&amp;theme=dark" height="48" alt="PyTorch, scikit-learn, MATLAB" />
+<br /><br />
+<sub>NumPy · SciPy · Matplotlib · Simulink</sub>
+<br /><br />
+</td>
+<td width="50%" align="center">
+<b>Tools &amp; Interfaces</b><br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vite&amp;theme=dark" height="48" alt="Git, GitHub, Vite" />
+<br /><br />
+<sub>PyQt6 · PyQtGraph · GSAP</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
-<img src="assets/mc-section-04.svg" width="100%" alt="04 — World activity / GitHub statistics" />
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🧠 LLM Uncertainty Lab
+
+**Can a model reveal when it's guessing?**
+
+A research project exploring internal uncertainty signals in RAG. Includes entropy baselines, logistic and MLP probes, reproducible evaluation, and a local evidence-aware chat dashboard. Current results are predictive; causal and cross-model experiments remain future work.
+
+`Python` `PyTorch` `RAG` `Model evaluation`
+
+**[Explore SOA →](https://github.com/Paila009/SOA)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Drone Direction-Finding Simulator
+
+**From invisible signals to visible patterns.**
+
+A simulation and analysis workspace combining Python dashboards with MATLAB/Simulink models. Explore signal generation, spectrum views, recording replay, antenna arrays, and MUSIC-based direction estimation.
+
+`Python` `PyQt6` `NumPy` `MATLAB`
+
+**[Explore the simulator →](https://github.com/Paila009/Drone_DF_Simulator)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 LILNEST
+
+**Thoughtful software for everyday care.**
+
+A maternal and child wellness application project with dashboard, medical-record, marketplace, and time-capsule modules. Combines a Next.js interface and Django backend, with interactive 3D elements and role-based user flows.
+
+`Next.js` `React` `Django` `Three.js`
+
+**[Explore LILNEST-BLOG →](https://github.com/Paila009/LILNEST-BLOG)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 RF Algorithms & Dashboard
+
+**The calculations behind the visualizations.**
+
+A MATLAB/Simulink workspace for RF signal generation and processing, antenna-array modeling, direction and distance estimation, classification, and dashboard experiments.
+
+`MATLAB` `Simulink` `Signal processing`
+
+**[Explore the algorithms →](https://github.com/Paila009/Matlab-Dashboard-Calculations-Algorithms-)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ Interactive Portfolio
+
+**A playground for code, motion, and personality.**
+
+A portfolio built with Next.js and TypeScript, featuring a 3D scene, particle effects, terminal animation, a command palette, and motion experiments with GSAP and React Three Fiber.
+
+`TypeScript` `Next.js` `Three.js` `GSAP`
+
+**[Explore Portfolio-exp →](https://github.com/Paila009/Portfolio-exp)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Admin Dashboard
+
+**A compact interface for a busy store.**
+
+A lightweight, static admin-dashboard demo for products, orders, and customers. Uses seeded sample data and runs directly in the browser with plain HTML, CSS, and JavaScript.
+
+`JavaScript` `HTML` `CSS`
+
+**[Explore the dashboard →](https://github.com/Paila009/E-commerce-website)**
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Paila009&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101c1b&amp;title_color=9de96b&amp;icon_color=9de96b&amp;text_color=edf3df&amp;hide_rank=true" width="49%" alt="Paila009's public GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=Paila009&amp;hide_border=true&amp;background=101c1b&amp;ring=9de96b&amp;fire=9de96b&amp;currStreakLabel=9de96b&amp;sideLabels=edf3df&amp;currStreakNum=edf3df&amp;sideNums=edf3df&amp;dates=9399b2" width="49%" alt="Paila009's GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Paila009&amp;show_icons=true&amp;hide_border=true&amp;bg_color=1e1e2e&amp;title_color=2FBF64&amp;icon_color=2FBF64&amp;text_color=cdd6f4&amp;hide_rank=true" width="49%" alt="Paila009's public GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=Paila009&amp;hide_border=true&amp;background=1e1e2e&amp;ring=2FBF64&amp;fire=2FBF64&amp;currStreakLabel=2FBF64&amp;sideLabels=cdd6f4&amp;currStreakNum=cdd6f4&amp;sideNums=cdd6f4&amp;dates=9399b2" width="49%" alt="Paila009's GitHub contribution streak" />
 </p>
 
 <a href="https://github.com/Paila009?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paila009&amp;theme=github_dark" width="100%" alt="Paila009's GitHub contribution activity" /></a>
 
 </div>
 
-
-<br />
-
-<img src="assets/mc-section-05.svg" width="100%" alt="05 — Multiplayer / Let's connect" />
+## 📬 Let's Connect
 
 <div align="center">
 
-### Got a world worth building?
+### Have an idea worth building?
 
-Let's team up on **AI experiments, signal visualization, or creative web projects**.  
-Bring an idea. I'll bring curiosity and a crafting table.
+I'd love to connect with people exploring **AI, signal visualization, and web development**.  
+Let's trade ideas, learn from each other, and build something useful.
 
-<a href="mailto:pailaakash041@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Join_the_Party-9de96b?style=for-the-badge&amp;labelColor=26372d&amp;logo=gmail&amp;logoColor=white" alt="Email Paila Akash" /></a>
-<a href="https://www.linkedin.com/in/paila-akash"><img src="https://img.shields.io/badge/LINKEDIN-Let's_Build-75e5e5?style=for-the-badge&amp;labelColor=26372d" alt="Connect on LinkedIn" /></a>
+<a href="mailto:pailaakash041@gmail.com"><img src="https://img.shields.io/badge/Send_Me_An_Email-2FBF64?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+<a href="https://www.linkedin.com/in/paila-akash"><img src="https://img.shields.io/badge/Connect_On_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <br /><br />
 
-<img src="assets/mc-portal.gif" width="100%" alt="An animated enchanted portal. Enter the next chunk: mine ideas, craft code, explore what's next. Idea, build, test, learn." />
+**Code. Experiment. Repeat.**
 
-<sub>One block. One idea. One commit at a time.</sub>
+<sub>Always curious. Always building.</sub>
 
 </div>
-
-<details>
-<summary>📖 Open the quest journal — text version</summary>
-
-
-**[Llm Uncertainty Lab](https://github.com/Paila009/SOA)** — Investigating when language models might be guessing: RAG, internal signals, probes, and evaluation.  
-*Python / PyTorch / RAG*
-
-**[Drone Df Simulator](https://github.com/Paila009/Drone_DF_Simulator)** — Signal generation, spectrum views, replay tools, antenna arrays, and MUSIC-based direction estimation.  
-*Python / PyQt6 / MATLAB*
-
-**[Lilnest](https://github.com/Paila009/LILNEST-BLOG)** — A maternal & child wellness app project with care dashboards, records, and time-capsule modules.  
-*Next.js / Django / Three.js*
-
-**[Rf Algorithms](https://github.com/Paila009/Matlab-Dashboard-Calculations-Algorithms-)** — MATLAB/Simulink experiments for signal processing, RF modeling, and direction/distance estimation.  
-*MATLAB / Simulink*
-
-**[Interactive Portfolio](https://github.com/Paila009/Portfolio-exp)** — An expressive portfolio with 3D scenes, particles, terminal motion, and a keyboard command palette.  
-*TypeScript / Next.js / GSAP*
-
-**[E-Commerce Dashboard](https://github.com/Paila009/E-commerce-website)** — A static store-admin demo with products, orders, and customers. Built with seeded sample data.  
-*JavaScript / HTML / CSS*
-
-</details>
