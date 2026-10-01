@@ -1,34 +1,104 @@
 <div align="center">
 
-<img src="assets/mission-control.png" width="100%" alt="Paila009 — Code. Experiment. Repeat. A neon pixel-art lab above a rainy city." />
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Animated pixel-art coding room with glowing monitors and gaming collectibles" />
 
-# Hey, I'm Paila Akash.
+<br />
 
-### AI experiments. Signal intelligence. Web experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;duration=3000&amp;pause=1100&amp;color=2FBF64&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=65&amp;lines=Hi%2C+I%27m+Paila+Akash;AI+%26+Full-Stack+Developer;CSE+%40+K+L+University;Exploring+LLMs+%26+RF+Signals;Code.+Experiment.+Repeat." width="100%" alt="Hi, I'm Paila Akash — AI and full-stack developer; exploring LLMs and RF signals" />
 
-Computer Science & Engineering · Generative AI · K L University
+<p>
+<img src="https://img.shields.io/badge/Hyderabad%2C_India-1e1e2e?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=2FBF64" alt="Hyderabad, India" />
+<img src="https://img.shields.io/badge/K_L_University-1e1e2e?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=2FBF64" alt="K L University" />
+<img src="https://img.shields.io/badge/Let's_Build_Together-2FBF64?style=for-the-badge&amp;logo=handshake&amp;logoColor=white" alt="Let's build together" />
+</p>
 
-<a href="https://github.com/Paila009?tab=repositories"><b>Explore my projects ↗</b></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/paila-akash"><b>LinkedIn ↗</b></a>
+<p>
+<a href="https://github.com/Paila009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/paila-akash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pailaakash041@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Paila Akash" /></a>
+<a href="https://github.com/Paila009?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-8250DF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
+</p>
 
-<br /><br />
-
-<img src="assets/signal-lab.gif" width="100%" alt="Animated radar sweep and terminal: explore AI, signals and web; turn curiosity into working systems; build, test, understand, repeat." />
+**Building across AI, full-stack development, and signal intelligence.**
 
 </div>
 
-## `01` / Behind the keyboard
+<br />
 
-I'm a computer science student drawn to the space where **AI, software, and real-world signals** meet. My projects move from investigating uncertainty inside language models to visualizing RF signals and building interactive web applications.
+## 🧭 About Me
 
-I like making complex ideas tangible: an experiment you can reproduce, a signal you can see, or an interface you can actually use.
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Animated developer working at a computer" />
 
-- **AI & research** — exploring hallucination detection, retrieval-augmented generation, and model uncertainty.
-- **Signals & simulation** — experimenting with RF analysis, direction estimation, and visual dashboards.
-- **Full-stack development** — building with React, Next.js, Python, and Django, with room for motion and 3D.
+I'm **Paila Akash**, a Computer Science student who likes taking ideas apart, understanding how they work, and turning them into something useful. My projects connect **language models, RF signals, and interactive web experiences**.
 
-## `02` / Selected builds
+- 🎓 Studying **B.Tech CSE (Generative AI)** at **K L University**.
+- 🧠 Exploring **LLM uncertainty, hallucination detection, and RAG**.
+- 📡 Building **RF simulations, direction-finding tools, and visual dashboards**.
+- 🌱 Developing **LILNEST**, a maternal and child wellness app project.
+- ✨ Experimenting with **3D interfaces, motion, and full-stack development**.
+- ⚡ My favorite kind of project: one that makes me learn something new.
+
+<br clear="right" />
+
+## 🎓 Education & Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Education
+
+**K L University**  
+B.Tech, Computer Science & Engineering  
+Specialization: **Generative AI**
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm exploring
+
+🧠 Interpretable and evidence-aware AI  
+📡 Signal processing and RF visualization  
+🌐 Full-stack applications and creative interfaces
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Languages</b><br /><br />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&amp;theme=dark" height="48" alt="Python, JavaScript, TypeScript, HTML, CSS" />
+<br /><br />
+</td>
+<td width="50%" align="center">
+<b>Web Development</b><br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,tailwind,threejs&amp;theme=dark" height="48" alt="React, Next.js, Django, Tailwind CSS, Three.js" />
+<br /><br />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<b>AI &amp; Scientific Computing</b><br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab&amp;theme=dark" height="48" alt="PyTorch, scikit-learn, MATLAB" />
+<br /><br />
+<sub>NumPy · SciPy · Matplotlib · Simulink</sub>
+<br /><br />
+</td>
+<td width="50%" align="center">
+<b>Tools &amp; Interfaces</b><br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vite&amp;theme=dark" height="48" alt="Git, GitHub, Vite" />
+<br /><br />
+<sub>PyQt6 · PyQtGraph · GSAP</sub>
+<br /><br />
+</td>
+</tr>
+</table>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -117,20 +187,35 @@ A lightweight, static admin-dashboard demo for products, orders, and customers. 
 </tr>
 </table>
 
-## `03` / Tools I build with
+## 📊 GitHub Activity
 
-<img src="assets/stack.svg" width="100%" alt="Python, PyTorch, NumPy, MATLAB, React, Next.js, TypeScript, Django" />
+<div align="center">
 
-**Also in the mix:** Simulink · SciPy · Matplotlib · PyQt6 · Three.js · GSAP · Git
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Paila009&amp;show_icons=true&amp;hide_border=true&amp;bg_color=1e1e2e&amp;title_color=2FBF64&amp;icon_color=2FBF64&amp;text_color=cdd6f4&amp;hide_rank=true" width="49%" alt="Paila009's public GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=Paila009&amp;hide_border=true&amp;background=1e1e2e&amp;ring=2FBF64&amp;fire=2FBF64&amp;currStreakLabel=2FBF64&amp;sideLabels=cdd6f4&amp;currStreakNum=cdd6f4&amp;sideNums=cdd6f4&amp;dates=9399b2" width="49%" alt="Paila009's GitHub contribution streak" />
+</p>
 
-## `04` / The next experiment
+<a href="https://github.com/Paila009?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paila009&amp;theme=github_dark" width="100%" alt="Paila009's GitHub contribution activity" /></a>
 
-I'm interested in making AI systems easier to inspect, signal-processing tools easier to understand, and web applications more useful and expressive.
+</div>
 
-If you're exploring **AI research, signal visualization, or creative web development**, let's connect on [LinkedIn](https://www.linkedin.com/in/paila-akash).
+## 📬 Let's Connect
 
-<br />
+<div align="center">
 
-<img src="assets/next-commit.gif" width="100%" alt="Always curious. Next commit, next possibility. Animated cyan and violet signals travel across a dark circuit." />
+### Have an idea worth building?
 
-<div align="center"><sub>Built on curiosity. Improved one experiment at a time.</sub></div>
+I'd love to connect with people exploring **AI, signal visualization, and web development**.  
+Let's trade ideas, learn from each other, and build something useful.
+
+<a href="mailto:pailaakash041@gmail.com"><img src="https://img.shields.io/badge/Send_Me_An_Email-2FBF64?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+<a href="https://www.linkedin.com/in/paila-akash"><img src="https://img.shields.io/badge/Connect_On_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<br /><br />
+
+**Code. Experiment. Repeat.**
+
+<sub>Always curious. Always building.</sub>
+
+</div>
